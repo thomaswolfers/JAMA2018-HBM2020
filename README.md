@@ -1,4 +1,4 @@
-# JAMA2018-HBM2020
+# Papers_JAMA2018&HBM2020
 The code for these papers is part of the PCNtoolkit - https://github.com/amarquand/PCNtoolkit
 
 1) gpr - https://github.com/amarquand/PCNtoolkit/blob/master/pcntoolkit/normative.py
